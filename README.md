@@ -7,7 +7,7 @@ http://www.mediafire.com/download/eofp91ble5i3412/ETS2_Company_Telemetry_Logger_
 <h1>Log</h1>
 For while we don't have a Log Interpreter so this is the structure of the Log generated:
 <code>
-<p>1# TRAILER NAME | TRAILER WEIGHT | TRAILER INCOME
+<p>#1 TRAILER NAME | TRAILER WEIGHT | TRAILER INCOME
 <p>2# SOURCE COMPANY | SOURCE CITY | DESTINY COMPANY | DESTINY CITY
 <p>3# FUEL ON START
 <p>4# IF HAS BEEN REFUELED
