@@ -6,14 +6,14 @@ http://www.mediafire.com/download/eofp91ble5i3412/ETS2_Company_Telemetry_Logger_
 
 <h1>Log</h1>
 For while we don't have a Log Interpreter so this is the structure of the Log generated:
-##1 TRAILER NAME | TRAILER WEIGHT | TRAILER INCOME
-##2 SOURCE COMPANY | SOURCE CITY | DESTINY COMPANY | DESTINY CITY
-##3 FUEL ON START
-##4 IF HAS BEEN REFUELED
-##5 FINAL FUEL
-##6 WASTED FUEL
-##7 GREATER SPEED REACHED
-##8 TRAILER DAMAGE
+1# TRAILER NAME | TRAILER WEIGHT | TRAILER INCOME
+2# SOURCE COMPANY | SOURCE CITY | DESTINY COMPANY | DESTINY CITY
+3# FUEL ON START
+4# IF HAS BEEN REFUELED
+5# FINAL FUEL
+6# WASTED FUEL
+7# GREATER SPEED REACHED
+8# TRAILER DAMAGE
 
 <h1>Project</h1>
 This project uses the project ETS2 Telemetry Server: https://github.com/Funbit/ets2-telemetry-server
