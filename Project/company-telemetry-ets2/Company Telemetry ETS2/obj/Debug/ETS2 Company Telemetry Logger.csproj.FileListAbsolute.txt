@@ -1,0 +1,24 @@
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\ETS2 Company Telemetry Logger.exe.config
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\obj\Debug\ETS2 Company Telemetry Logger.csprojResolveAssemblyReference.cache
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\obj\Debug\ETS2_Company_Telemetry_Logger.Properties.Resources.resources
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\obj\Debug\ETS2 Company Telemetry Logger.csproj.GenerateResource.Cache
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\obj\Debug\ETS2_Company_Telemetry_Logger.Principal.resources
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\obj\Debug\ETS2_Company_Telemetry_Logger.Settings.resources
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\ETS2 Company Telemetry Logger.exe.manifest
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\ETS2 Company Telemetry Logger.application
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\ETS2 Company Telemetry Logger.exe
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\ETS2 Company Telemetry Logger.pdb
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\EntityFramework.dll
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\System.Data.SQLite.dll
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\System.Data.SQLite.EF6.dll
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\System.Data.SQLite.Linq.dll
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\EntityFramework.xml
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\bin\Debug\System.Data.SQLite.xml
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\obj\Debug\ETS2 Company Telemetry Logger.exe.manifest
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\obj\Debug\ETS2 Company Telemetry Logger.application
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\obj\Debug\ETS2 Company Telemetry Logger.exe
+E:\GitHub\ETS2-Company-Telemetry-Logger\Project\company-telemetry-ets2\Company Telemetry ETS2\obj\Debug\ETS2 Company Telemetry Logger.pdb
