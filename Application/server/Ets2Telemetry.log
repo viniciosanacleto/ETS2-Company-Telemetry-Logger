@@ -1,0 +1,345 @@
+﻿2015-08-16 13:30:02,480 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-08-16 13:30:02,596 [1   ] [INFO ] Checking plugin DLL files...
+2015-08-16 13:30:02,596 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-08-16 13:30:02,601 [1   ] [INFO ] Checking Firewall rule...
+2015-08-16 13:30:02,603 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-08-16 13:30:02,810 [1   ] [INFO ] Checking ACL rule status...
+2015-08-16 13:30:02,810 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-08-16 13:30:02,861 [1   ] [INFO ] Found following network interfaces: 
+'{00E657A3-FDF5-4BF0-882A-338B0FE61F97}': 'vEthernet (Realtek PCIe GBE Family Controller Virtual Switch)' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{1630C1CF-D15A-4F70-A67B-3E4A041BD3BF}': 'isatap.{401D4D61-4A7C-4460-8DCA-23943F50BEF2}' (Down), 
+'{71EF0C5D-1AB1-4ECD-BEE3-A84A5F044B55}': 'Teredo Tunneling Pseudo-Interface' (Up)
+2015-08-16 13:47:12,304 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-08-16 13:47:12,411 [1   ] [INFO ] Checking plugin DLL files...
+2015-08-16 13:47:12,412 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-08-16 13:47:12,416 [1   ] [INFO ] Checking Firewall rule...
+2015-08-16 13:47:12,417 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-08-16 13:47:12,656 [1   ] [INFO ] Checking ACL rule status...
+2015-08-16 13:47:12,656 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-08-16 13:47:12,708 [1   ] [INFO ] Found following network interfaces: 
+'{00E657A3-FDF5-4BF0-882A-338B0FE61F97}': 'vEthernet (Realtek PCIe GBE Family Controller Virtual Switch)' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{1630C1CF-D15A-4F70-A67B-3E4A041BD3BF}': 'isatap.{401D4D61-4A7C-4460-8DCA-23943F50BEF2}' (Down), 
+'{71EF0C5D-1AB1-4ECD-BEE3-A84A5F044B55}': 'Teredo Tunneling Pseudo-Interface' (Up)
+2015-08-17 13:42:05,275 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-08-17 13:42:05,369 [1   ] [INFO ] Checking plugin DLL files...
+2015-08-17 13:42:05,384 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-08-17 13:42:05,384 [1   ] [INFO ] Checking Firewall rule...
+2015-08-17 13:42:05,384 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-08-17 13:42:06,166 [1   ] [INFO ] Checking ACL rule status...
+2015-08-17 13:42:06,166 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-08-17 13:42:06,228 [1   ] [INFO ] Found following network interfaces: 
+'{00E657A3-FDF5-4BF0-882A-338B0FE61F97}': 'vEthernet (Realtek PCIe GBE Family Controller Virtual Switch)' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{1630C1CF-D15A-4F70-A67B-3E4A041BD3BF}': 'isatap.{401D4D61-4A7C-4460-8DCA-23943F50BEF2}' (Down), 
+'{71EF0C5D-1AB1-4ECD-BEE3-A84A5F044B55}': 'Teredo Tunneling Pseudo-Interface' (Up)
+2015-08-17 13:56:03,218 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-08-17 13:56:03,312 [1   ] [INFO ] Checking plugin DLL files...
+2015-08-17 13:56:03,312 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-08-17 13:56:03,327 [1   ] [INFO ] Checking Firewall rule...
+2015-08-17 13:56:03,327 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-08-17 13:56:03,515 [1   ] [INFO ] Checking ACL rule status...
+2015-08-17 13:56:03,515 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-08-17 13:56:03,562 [1   ] [INFO ] Found following network interfaces: 
+'{00E657A3-FDF5-4BF0-882A-338B0FE61F97}': 'vEthernet (Realtek PCIe GBE Family Controller Virtual Switch)' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{1630C1CF-D15A-4F70-A67B-3E4A041BD3BF}': 'isatap.{401D4D61-4A7C-4460-8DCA-23943F50BEF2}' (Down), 
+'{71EF0C5D-1AB1-4ECD-BEE3-A84A5F044B55}': 'Teredo Tunneling Pseudo-Interface' (Up)
+2015-08-24 16:24:38,863 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-08-24 16:24:38,973 [1   ] [INFO ] Checking plugin DLL files...
+2015-08-24 16:24:38,973 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-08-24 16:24:38,973 [1   ] [INFO ] Checking Firewall rule...
+2015-08-24 16:24:38,973 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-08-24 16:24:39,988 [1   ] [INFO ] Checking ACL rule status...
+2015-08-24 16:24:39,988 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-08-24 16:24:40,082 [1   ] [INFO ] Found following network interfaces: 
+'{00E657A3-FDF5-4BF0-882A-338B0FE61F97}': 'vEthernet (Realtek PCIe GBE Family Controller Virtual Switch)' (Up), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Down), 
+'{16972A3D-99F3-4572-ACEF-26AC0E997A5F}': '6TO4 Adapter' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{1630C1CF-D15A-4F70-A67B-3E4A041BD3BF}': 'isatap.ararangua.ufsc.br' (Down), 
+'{71EF0C5D-1AB1-4ECD-BEE3-A84A5F044B55}': 'Teredo Tunneling Pseudo-Interface' (Up)
+2015-09-01 16:49:15,279 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-09-01 16:49:15,411 [1   ] [INFO ] Checking plugin DLL files...
+2015-09-01 16:49:15,411 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-09-01 16:49:15,416 [1   ] [INFO ] Checking Firewall rule...
+2015-09-01 16:49:15,418 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-09-01 16:49:16,787 [1   ] [INFO ] Checking ACL rule status...
+2015-09-01 16:49:16,787 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-09-01 16:49:16,865 [1   ] [INFO ] Found following network interfaces: 
+'{00E657A3-FDF5-4BF0-882A-338B0FE61F97}': 'vEthernet (Realtek PCIe GBE Family Controller Virtual Switch)' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Down), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{71EF0C5D-1AB1-4ECD-BEE3-A84A5F044B55}': 'Teredo Tunneling Pseudo-Interface' (Down)
+2015-09-01 20:39:51,904 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-09-01 20:39:52,029 [1   ] [INFO ] Checking plugin DLL files...
+2015-09-01 20:39:52,029 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-09-01 20:39:52,044 [1   ] [INFO ] Checking Firewall rule...
+2015-09-01 20:39:52,044 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-09-01 20:39:52,763 [1   ] [INFO ] Checking ACL rule status...
+2015-09-01 20:39:52,763 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-09-01 20:39:52,841 [1   ] [INFO ] Found following network interfaces: 
+'{00E657A3-FDF5-4BF0-882A-338B0FE61F97}': 'vEthernet (Realtek PCIe GBE Family Controller Virtual Switch)' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{1630C1CF-D15A-4F70-A67B-3E4A041BD3BF}': 'isatap.ufsc.br' (Down), 
+'{71EF0C5D-1AB1-4ECD-BEE3-A84A5F044B55}': 'Teredo Tunneling Pseudo-Interface' (Down)
+2015-09-01 20:54:08,749 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-09-01 20:54:08,874 [1   ] [INFO ] Checking plugin DLL files...
+2015-09-01 20:54:08,874 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-09-01 20:54:08,890 [1   ] [INFO ] Checking Firewall rule...
+2015-09-01 20:54:08,890 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-09-01 20:54:09,129 [1   ] [INFO ] Checking ACL rule status...
+2015-09-01 20:54:09,129 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-09-01 20:54:09,176 [1   ] [INFO ] Found following network interfaces: 
+'{00E657A3-FDF5-4BF0-882A-338B0FE61F97}': 'vEthernet (Realtek PCIe GBE Family Controller Virtual Switch)' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{1630C1CF-D15A-4F70-A67B-3E4A041BD3BF}': 'isatap.ufsc.br' (Down), 
+'{71EF0C5D-1AB1-4ECD-BEE3-A84A5F044B55}': 'Teredo Tunneling Pseudo-Interface' (Down)
+2015-09-05 13:36:25,619 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-09-05 13:36:25,792 [1   ] [INFO ] Checking plugin DLL files...
+2015-09-05 13:36:25,792 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-09-05 13:36:25,796 [1   ] [INFO ] Checking Firewall rule...
+2015-09-05 13:36:25,797 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-09-05 13:36:28,784 [1   ] [INFO ] Checking ACL rule status...
+2015-09-05 13:36:28,784 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-09-05 13:36:28,904 [1   ] [INFO ] Found following network interfaces: 
+'{00E657A3-FDF5-4BF0-882A-338B0FE61F97}': 'vEthernet (Realtek PCIe GBE Family Controller Virtual Switch)' (Down), 
+'{16972A3D-99F3-4572-ACEF-26AC0E997A5F}': '6TO4 Adapter' (Up), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{1630C1CF-D15A-4F70-A67B-3E4A041BD3BF}': 'isatap.ararangua.ufsc.br' (Down), 
+'{71EF0C5D-1AB1-4ECD-BEE3-A84A5F044B55}': 'Teredo Tunneling Pseudo-Interface' (Up), 
+'{08AFD11B-EBB0-4BAF-A9F0-475F8FCA7444}': 'isatap.{401D4D61-4A7C-4460-8DCA-23943F50BEF2}' (Down)
+2015-09-06 20:00:02,454 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-09-06 20:00:02,570 [1   ] [INFO ] Checking plugin DLL files...
+2015-09-06 20:00:02,570 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-09-06 20:00:02,574 [1   ] [INFO ] Checking Firewall rule...
+2015-09-06 20:00:02,575 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-09-06 20:00:03,388 [1   ] [INFO ] Checking ACL rule status...
+2015-09-06 20:00:03,388 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-09-06 20:00:03,457 [1   ] [INFO ] Found following network interfaces: 
+'{00E657A3-FDF5-4BF0-882A-338B0FE61F97}': 'vEthernet (Realtek PCIe GBE Family Controller Virtual Switch)' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{71EF0C5D-1AB1-4ECD-BEE3-A84A5F044B55}': 'Teredo Tunneling Pseudo-Interface' (Up), 
+'{08AFD11B-EBB0-4BAF-A9F0-475F8FCA7444}': 'isatap.{401D4D61-4A7C-4460-8DCA-23943F50BEF2}' (Down)
+2015-11-09 09:00:28,798 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-11-09 09:00:28,986 [1   ] [INFO ] Checking plugin DLL files...
+2015-11-09 09:00:29,001 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-11-09 09:00:29,048 [1   ] [INFO ] Checking Firewall rule...
+2015-11-09 09:00:29,048 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-11-09 09:00:30,486 [1   ] [INFO ] Checking ACL rule status...
+2015-11-09 09:00:30,486 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-11-09 09:00:30,829 [1   ] [INFO ] Found following network interfaces: 
+'{425A21B8-F161-46B2-A60F-2BD45A3751FA}': 'Ethernet' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Down), 
+'{1E2E16F6-E968-4BB9-A6D7-C5F9D944DBE5}': 'Local Area Connection* 2' (Down), 
+'{8C8FF8D0-D948-4035-A066-422AA85FB522}': 'Local Area Connection* 3' (Down), 
+'{64EC49C7-91C7-4888-947E-CFA121FD6320}': 'Wi-Fi' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{1630C1CF-D15A-4F70-A67B-3E4A041BD3BF}': 'isatap.ufsc.br' (Down), 
+'{CF411FCE-FF68-45AB-B083-2CBFF8500108}': 'Teredo Tunneling Pseudo-Interface' (Down)
+2015-11-09 15:05:59,550 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-11-09 15:05:59,675 [1   ] [INFO ] Checking plugin DLL files...
+2015-11-09 15:05:59,675 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-11-09 15:05:59,691 [1   ] [INFO ] Checking Firewall rule...
+2015-11-09 15:05:59,691 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-11-09 15:06:00,878 [1   ] [INFO ] Checking ACL rule status...
+2015-11-09 15:06:00,878 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-11-09 15:06:01,253 [1   ] [INFO ] Found following network interfaces: 
+'{425A21B8-F161-46B2-A60F-2BD45A3751FA}': 'Ethernet' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Down), 
+'{1E2E16F6-E968-4BB9-A6D7-C5F9D944DBE5}': 'Local Area Connection* 2' (Down), 
+'{8C8FF8D0-D948-4035-A066-422AA85FB522}': 'Local Area Connection* 3' (Down), 
+'{64EC49C7-91C7-4888-947E-CFA121FD6320}': 'Wi-Fi' (Down), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{CF411FCE-FF68-45AB-B083-2CBFF8500108}': 'Teredo Tunneling Pseudo-Interface' (Down)
+2015-11-09 15:44:38,594 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-11-09 15:44:38,688 [1   ] [INFO ] Checking plugin DLL files...
+2015-11-09 15:44:38,703 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-11-09 15:44:38,703 [1   ] [INFO ] Checking Firewall rule...
+2015-11-09 15:44:38,703 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-11-09 15:44:39,547 [1   ] [INFO ] Checking ACL rule status...
+2015-11-09 15:44:39,547 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-11-09 15:44:39,828 [1   ] [INFO ] Found following network interfaces: 
+'{425A21B8-F161-46B2-A60F-2BD45A3751FA}': 'Ethernet' (Down), 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Down), 
+'{1E2E16F6-E968-4BB9-A6D7-C5F9D944DBE5}': 'Local Area Connection* 2' (Down), 
+'{8C8FF8D0-D948-4035-A066-422AA85FB522}': 'Local Area Connection* 3' (Down), 
+'{64EC49C7-91C7-4888-947E-CFA121FD6320}': 'Wi-Fi' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{CF411FCE-FF68-45AB-B083-2CBFF8500108}': 'Teredo Tunneling Pseudo-Interface' (Down), 
+'{08AFD11B-EBB0-4BAF-A9F0-475F8FCA7444}': 'isatap.ufsc.br' (Down)
+2015-11-09 23:30:44,101 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2015-11-09 23:30:44,221 [1   ] [INFO ] Checking plugin DLL files...
+2015-11-09 23:30:44,221 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2015-11-09 23:30:44,228 [1   ] [INFO ] Checking Firewall rule...
+2015-11-09 23:30:44,229 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2015-11-09 23:30:45,051 [1   ] [INFO ] Checking ACL rule status...
+2015-11-09 23:30:45,051 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2015-11-09 23:30:45,348 [1   ] [INFO ] Found following network interfaces: 
+'{401D4D61-4A7C-4460-8DCA-23943F50BEF2}': 'vEthernet (Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC Virtual Switch)' (Down), 
+'{1E2E16F6-E968-4BB9-A6D7-C5F9D944DBE5}': 'Local Area Connection* 2' (Down), 
+'{8C8FF8D0-D948-4035-A066-422AA85FB522}': 'Local Area Connection* 3' (Down), 
+'{425A21B8-F161-46B2-A60F-2BD45A3751FA}': 'Ethernet' (Up), 
+'{64EC49C7-91C7-4888-947E-CFA121FD6320}': 'Wi-Fi' (Down), 
+'{16972A3D-99F3-4572-ACEF-26AC0E997A5F}': '6TO4 Adapter' (Up), 
+'{6BB4F047-2706-11E5-9BBE-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{1630C1CF-D15A-4F70-A67B-3E4A041BD3BF}': 'isatap.ararangua.ufsc.br' (Down), 
+'{CF411FCE-FF68-45AB-B083-2CBFF8500108}': 'Teredo Tunneling Pseudo-Interface' (Up)
+2016-04-12 14:54:49,853 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2016-04-12 14:54:50,131 [1   ] [INFO ] Checking plugin DLL files...
+2016-04-12 14:54:50,167 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2016-04-12 14:54:50,364 [1   ] [INFO ] Checking Firewall rule...
+2016-04-12 14:54:50,366 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2016-04-12 14:54:52,573 [1   ] [INFO ] Checking ACL rule status...
+2016-04-12 14:54:52,573 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2016-04-12 14:54:53,737 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2016-04-12 14:54:53,842 [1   ] [INFO ] Checking plugin DLL files...
+2016-04-12 14:54:53,842 [1   ] [INFO ] Validating ETS2 path: 'D:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2016-04-12 14:54:53,878 [1   ] [INFO ] Checking Firewall rule...
+2016-04-12 14:54:53,879 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2016-04-12 14:54:54,422 [1   ] [INFO ] Checking ACL rule status...
+2016-04-12 14:54:54,422 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2016-04-12 14:54:57,422 [1   ] [INFO ] Adding Firewall rule...
+2016-04-12 14:54:57,422 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall add rule name="ETS2 TELEMETRY SERVER (PORT 25555)" dir=in action=allow protocol=TCP localport=25555 remoteip=localsubnet
+2016-04-12 14:54:58,773 [1   ] [INFO ] Found following network interfaces: 
+'{425A21B8-F161-46B2-A60F-2BD45A3751FA}': 'Ethernet' (Down), 
+'{1E2E16F6-E968-4BB9-A6D7-C5F9D944DBE5}': 'Local Area Connection* 2' (Down), 
+'{8C8FF8D0-D948-4035-A066-422AA85FB522}': 'Local Area Connection* 3' (Down), 
+'{A2FFDF8D-D701-4C8D-ADF3-605A2071CA38}': 'VirtualBox Host-Only Network' (Up), 
+'{64EC49C7-91C7-4888-947E-CFA121FD6320}': 'Wi-Fi' (Up), 
+'{0D2912AD-8D97-11E5-A6A2-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{FA13D24A-9D33-4FBB-96F5-03225C5A4C75}': 'Teredo Tunneling Pseudo-Interface' (Up), 
+'{ED437CCC-46B0-4B21-9E65-7D5AAFE075B3}': 'isatap.lan' (Down), 
+'{759CF0B0-78DE-4C72-9486-F2C40ABCDAE8}': 'isatap.{A2FFDF8D-D701-4C8D-ADF3-605A2071CA38}' (Down)
+2016-07-14 20:26:26,554 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2016-07-14 20:26:26,879 [1   ] [INFO ] Checking plugin DLL files...
+2016-07-14 20:26:26,900 [1   ] [INFO ] Validating ETS2 path: 'E:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2016-07-14 20:26:26,969 [1   ] [INFO ] Checking Firewall rule...
+2016-07-14 20:26:26,970 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2016-07-14 20:26:27,746 [1   ] [INFO ] Checking ACL rule status...
+2016-07-14 20:26:27,747 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2016-07-14 20:26:27,921 [1   ] [INFO ] Found following network interfaces: 
+'{1F2BAD1B-7C32-4F58-882C-2275E53251F5}': 'Local Area Connection* 2' (Down), 
+'{BA241D32-A55D-4124-AB82-8BE1D8427D69}': 'VirtualBox Host-Only Network' (Up), 
+'{EEEBB77C-8521-4222-944C-D3DD7454933C}': 'Ethernet' (Up), 
+'{C0E65905-8E87-4928-9E87-0B7932C8044E}': 'Wi-Fi' (Down), 
+'{998493F8-461B-11E6-A913-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{C58386E5-F190-4242-BDDD-65B2684ACA68}': 'Teredo Tunneling Pseudo-Interface' (Up), 
+'{A28961E3-8F48-4C0D-BE77-30A82D14AD9D}': 'isatap.{BA241D32-A55D-4124-AB82-8BE1D8427D69}' (Down), 
+'{2F8A26DF-4250-479C-BDBF-AFD45489D302}': 'isatap.{EEEBB77C-8521-4222-944C-D3DD7454933C}' (Down)
+2016-07-16 15:40:50,424 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2016-07-16 15:40:50,713 [1   ] [INFO ] Checking plugin DLL files...
+2016-07-16 15:40:50,713 [1   ] [INFO ] Validating ETS2 path: 'E:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2016-07-16 15:40:50,721 [1   ] [INFO ] Checking Firewall rule...
+2016-07-16 15:40:50,724 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2016-07-16 15:40:52,547 [1   ] [INFO ] Checking ACL rule status...
+2016-07-16 15:40:52,547 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2016-07-16 15:40:52,787 [1   ] [INFO ] Found following network interfaces: 
+'{1F2BAD1B-7C32-4F58-882C-2275E53251F5}': 'Local Area Connection* 2' (Down), 
+'{BA241D32-A55D-4124-AB82-8BE1D8427D69}': 'VirtualBox Host-Only Network' (Up), 
+'{EEEBB77C-8521-4222-944C-D3DD7454933C}': 'Ethernet' (Up), 
+'{C0E65905-8E87-4928-9E87-0B7932C8044E}': 'Wi-Fi' (Down), 
+'{998493F8-461B-11E6-A913-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{C58386E5-F190-4242-BDDD-65B2684ACA68}': 'Teredo Tunneling Pseudo-Interface' (Up), 
+'{A28961E3-8F48-4C0D-BE77-30A82D14AD9D}': 'isatap.{BA241D32-A55D-4124-AB82-8BE1D8427D69}' (Down), 
+'{09D97961-019E-46CF-BF98-F348156D5455}': 'isatap.{EEEBB77C-8521-4222-944C-D3DD7454933C}' (Down)
+2016-07-24 19:21:51,094 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2016-07-24 19:21:51,220 [1   ] [INFO ] Checking plugin DLL files...
+2016-07-24 19:21:51,221 [1   ] [INFO ] Validating ETS2 path: 'E:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2016-07-24 19:21:51,224 [1   ] [INFO ] Checking Firewall rule...
+2016-07-24 19:21:51,226 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2016-07-24 19:21:51,425 [1   ] [INFO ] Checking ACL rule status...
+2016-07-24 19:21:51,425 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2016-07-24 19:21:51,518 [1   ] [INFO ] Found following network interfaces: 
+'{1F2BAD1B-7C32-4F58-882C-2275E53251F5}': 'Local Area Connection* 2' (Down), 
+'{BA241D32-A55D-4124-AB82-8BE1D8427D69}': 'VirtualBox Host-Only Network' (Up), 
+'{EEEBB77C-8521-4222-944C-D3DD7454933C}': 'Ethernet' (Up), 
+'{C0E65905-8E87-4928-9E87-0B7932C8044E}': 'Wi-Fi' (Down), 
+'{998493F8-461B-11E6-A913-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{C58386E5-F190-4242-BDDD-65B2684ACA68}': 'Teredo Tunneling Pseudo-Interface' (Up), 
+'{A28961E3-8F48-4C0D-BE77-30A82D14AD9D}': 'isatap.{BA241D32-A55D-4124-AB82-8BE1D8427D69}' (Down), 
+'{2F8A26DF-4250-479C-BDBF-AFD45489D302}': 'isatap.{EEEBB77C-8521-4222-944C-D3DD7454933C}' (Down)
+2016-07-24 19:26:01,779 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2016-07-24 19:26:01,891 [1   ] [INFO ] Checking plugin DLL files...
+2016-07-24 19:26:01,892 [1   ] [INFO ] Validating ETS2 path: 'E:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2016-07-24 19:26:01,896 [1   ] [INFO ] Checking Firewall rule...
+2016-07-24 19:26:01,897 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2016-07-24 19:26:02,093 [1   ] [INFO ] Checking ACL rule status...
+2016-07-24 19:26:02,093 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2016-07-24 19:26:02,163 [1   ] [INFO ] Found following network interfaces: 
+'{1F2BAD1B-7C32-4F58-882C-2275E53251F5}': 'Local Area Connection* 2' (Down), 
+'{BA241D32-A55D-4124-AB82-8BE1D8427D69}': 'VirtualBox Host-Only Network' (Up), 
+'{EEEBB77C-8521-4222-944C-D3DD7454933C}': 'Ethernet' (Up), 
+'{C0E65905-8E87-4928-9E87-0B7932C8044E}': 'Wi-Fi' (Down), 
+'{998493F8-461B-11E6-A913-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{C58386E5-F190-4242-BDDD-65B2684ACA68}': 'Teredo Tunneling Pseudo-Interface' (Up), 
+'{A28961E3-8F48-4C0D-BE77-30A82D14AD9D}': 'isatap.{BA241D32-A55D-4124-AB82-8BE1D8427D69}' (Down), 
+'{2F8A26DF-4250-479C-BDBF-AFD45489D302}': 'isatap.{EEEBB77C-8521-4222-944C-D3DD7454933C}' (Down)
+2016-07-24 19:26:59,190 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2016-07-24 19:26:59,291 [1   ] [INFO ] Checking plugin DLL files...
+2016-07-24 19:26:59,291 [1   ] [INFO ] Validating ETS2 path: 'E:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2016-07-24 19:26:59,295 [1   ] [INFO ] Checking Firewall rule...
+2016-07-24 19:26:59,296 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2016-07-24 19:26:59,476 [1   ] [INFO ] Checking ACL rule status...
+2016-07-24 19:26:59,476 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2016-07-24 19:26:59,542 [1   ] [INFO ] Found following network interfaces: 
+'{1F2BAD1B-7C32-4F58-882C-2275E53251F5}': 'Local Area Connection* 2' (Down), 
+'{BA241D32-A55D-4124-AB82-8BE1D8427D69}': 'VirtualBox Host-Only Network' (Up), 
+'{EEEBB77C-8521-4222-944C-D3DD7454933C}': 'Ethernet' (Up), 
+'{C0E65905-8E87-4928-9E87-0B7932C8044E}': 'Wi-Fi' (Down), 
+'{998493F8-461B-11E6-A913-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{C58386E5-F190-4242-BDDD-65B2684ACA68}': 'Teredo Tunneling Pseudo-Interface' (Up), 
+'{A28961E3-8F48-4C0D-BE77-30A82D14AD9D}': 'isatap.{BA241D32-A55D-4124-AB82-8BE1D8427D69}' (Down), 
+'{2F8A26DF-4250-479C-BDBF-AFD45489D302}': 'isatap.{EEEBB77C-8521-4222-944C-D3DD7454933C}' (Down)

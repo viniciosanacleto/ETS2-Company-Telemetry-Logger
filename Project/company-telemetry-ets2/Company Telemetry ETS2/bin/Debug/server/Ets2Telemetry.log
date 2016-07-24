@@ -361,3 +361,21 @@ netsh http show urlacl url=http://+:25555/
 '{C58386E5-F190-4242-BDDD-65B2684ACA68}': 'Teredo Tunneling Pseudo-Interface' (Up), 
 '{A28961E3-8F48-4C0D-BE77-30A82D14AD9D}': 'isatap.{BA241D32-A55D-4124-AB82-8BE1D8427D69}' (Down), 
 '{2F8A26DF-4250-479C-BDBF-AFD45489D302}': 'isatap.{EEEBB77C-8521-4222-944C-D3DD7454933C}' (Down)
+2016-07-24 19:51:59,808 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2016-07-24 19:51:59,913 [1   ] [INFO ] Checking plugin DLL files...
+2016-07-24 19:51:59,914 [1   ] [INFO ] Validating ETS2 path: 'E:\Jogos\Steam\steamapps\common\Euro Truck Simulator 2' ... OK
+2016-07-24 19:51:59,917 [1   ] [INFO ] Checking Firewall rule...
+2016-07-24 19:51:59,919 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2016-07-24 19:52:00,117 [1   ] [INFO ] Checking ACL rule status...
+2016-07-24 19:52:00,117 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2016-07-24 19:52:00,187 [1   ] [INFO ] Found following network interfaces: 
+'{1F2BAD1B-7C32-4F58-882C-2275E53251F5}': 'Local Area Connection* 2' (Down), 
+'{BA241D32-A55D-4124-AB82-8BE1D8427D69}': 'VirtualBox Host-Only Network' (Up), 
+'{EEEBB77C-8521-4222-944C-D3DD7454933C}': 'Ethernet' (Up), 
+'{C0E65905-8E87-4928-9E87-0B7932C8044E}': 'Wi-Fi' (Down), 
+'{998493F8-461B-11E6-A913-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{C58386E5-F190-4242-BDDD-65B2684ACA68}': 'Teredo Tunneling Pseudo-Interface' (Up), 
+'{A28961E3-8F48-4C0D-BE77-30A82D14AD9D}': 'isatap.{BA241D32-A55D-4124-AB82-8BE1D8427D69}' (Down), 
+'{2F8A26DF-4250-479C-BDBF-AFD45489D302}': 'isatap.{EEEBB77C-8521-4222-944C-D3DD7454933C}' (Down)
