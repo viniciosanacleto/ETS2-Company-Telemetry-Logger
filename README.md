@@ -18,5 +18,5 @@ For while we don't have a Log Interpreter so this is the structure of the Log ge
 </code>
 
 <h1>Project</h1>
-This project uses the project ETS2 Telemetry Server: https://github.com/Funbit/ets2-telemetry-server
-The code has been writed on C#, utilizing .NET Framework 4.5.
+<p>This project uses the project ETS2 Telemetry Server: https://github.com/Funbit/ets2-telemetry-server
+<p>The code has been writed on C#, utilizing .NET Framework 4.5.
