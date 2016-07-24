@@ -5,7 +5,7 @@ Download only the application
 http://www.mediafire.com/download/eofp91ble5i3412/ETS2_Company_Telemetry_Logger_0.1v.rar
 
 <h1>Installation and Use<h1>
-1.After the download, extract the application in some folder
+1- After the download, extract the application in some folder
 
 <h1>Log</h1>
 For while we don't have a Log Interpreter so this is the structure of the Log generated:
